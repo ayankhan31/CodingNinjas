@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Trees/Binary Trees.iml" filepath="$PROJECT_DIR$/Binary Trees/Binary Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CodingNinjas.iml" filepath="$PROJECT_DIR$/.idea/CodingNinjas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming - I/Dynamic Programming - I.iml" filepath="$PROJECT_DIR$/Dynamic Programming - I/Dynamic Programming - I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericTrees/GenericTrees.iml" filepath="$PROJECT_DIR$/GenericTrees/GenericTrees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graphs-1/Graphs-1.iml" filepath="$PROJECT_DIR$/Graphs-1/Graphs-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList_10/LinkedList_10.iml" filepath="$PROJECT_DIR$/LinkedList_10/LinkedList_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS-3/OOPS-3.iml" filepath="$PROJECT_DIR$/OOPS-3/OOPS-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS4/OOPS4.iml" filepath="$PROJECT_DIR$/OOPS4/OOPS4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Priority_Queues/Priority_Queues.iml" filepath="$PROJECT_DIR$/Priority_Queues/Priority_Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion - 3/Recursion - 3.iml" filepath="$PROJECT_DIR$/Recursion - 3/Recursion - 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tries/Tries.iml" filepath="$PROJECT_DIR$/Tries/Tries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops1/oops1.iml" filepath="$PROJECT_DIR$/oops1/oops1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops2/oops2.iml" filepath="$PROJECT_DIR$/oops2/oops2.iml" />
+    </modules>
+  </component>
+</project>
